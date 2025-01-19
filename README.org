@@ -12,7 +12,6 @@ Welcome to Market Manager, your flexible, affordable, and easy-to-use event mana
 * Contact
 For support or inquiries, please reach out to:
 - Support Email: support@marketmanager.app
-- Manager: manager@marketmanager.app
 
 * License
 This project is licensed under the GNU General Public License v3.0.
