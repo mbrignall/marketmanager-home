@@ -1,0 +1,19 @@
+#+TITLE: Market Manager
+#+AUTHOR: mbrignall
+#+DATE: 2025-01-19
+
+* Market Manager
+Welcome to Market Manager, your flexible, affordable, and easy-to-use event management solution for market organisers.
+
+* Features
+- Seamless event management
+- No hidden fees
+- Community-focused tools
+
+* Contact
+For support or inquiries, please reach out to:
+- Support Email: support@marketmanager.app
+- Manager: manager@marketmanager.app
+
+* License
+This project is licensed under the GNU General Public License v3.0.
