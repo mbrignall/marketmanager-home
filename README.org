@@ -2,7 +2,6 @@
 #+AUTHOR: mbrignall
 #+DATE: 2025-01-19
 
-* Market Manager
 Welcome to Market Manager, your flexible, affordable, and easy-to-use event management solution for market organisers.
 
 * Features
